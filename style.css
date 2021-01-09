@@ -8,3 +8,13 @@
 h1 {
 
 }
+
+#gameCard {
+    margin: auto;
+    width: 50%;
+}
+
+#startBtn {
+    margin: auto;
+
+}
